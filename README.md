@@ -1,3 +1,5 @@
 # class-assignment
-
-hello world!
+Aniket Singh
+photo
+2028
+Working on backend development
