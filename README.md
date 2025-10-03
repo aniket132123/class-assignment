@@ -1,5 +1,5 @@
 # class-assignment
 Aniket Singh
-photo
+photo \n
 2028
 Working on backend development
